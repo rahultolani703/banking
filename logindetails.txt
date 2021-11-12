@@ -1,7 +1,8 @@
 The project will run using localhost using xampp server
 database sql file is in database folder
 
-
+you have to change name of folder to banking to run the project as admin page address is
+localhost/banking
 
 admin login details
 username: admin
