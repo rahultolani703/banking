@@ -1,0 +1,12 @@
+The project will run using localhost using xampp server
+database sql file is in database folder
+
+
+
+admin login details
+username: admin
+password: admin@123
+
+customer login details
+email: rahultolani703@gmail.com
+password: Rahul@703
